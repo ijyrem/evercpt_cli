@@ -1,0 +1,13 @@
+pandas
+numpy
+six
+tqdm
+biopython
+tensorflow
+xgboost
+scikit-learn
+joblib
+Jinja2
+matplotlib
+seaborn
+scipy

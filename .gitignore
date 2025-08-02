@@ -1,0 +1,13 @@
+
+__pycache__/
+*.pyc
+*.log
+.env
+*.swp
+*.tmp
+.DS_Store
+.vscode/
+.idea/
+bpRNA/
+CPC2_standalone-1.0.1/
+
